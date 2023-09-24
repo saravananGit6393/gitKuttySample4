@@ -14,9 +14,6 @@ public class GitPractice4 {
 	public void tc3() {
 		System.out.println("test3");
 	}
-	@Test
-	public void tc4() {
-		System.out.println("test4");
-	}
+	
 
 }
